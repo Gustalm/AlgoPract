@@ -15,15 +15,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseWordsInString", "Rev
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseWordsInAString2", "ReverseWordsInAString2\ReverseWordsInAString2.csproj", "{AAB32E59-9B09-4C04-A931-796937081539}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidParenthesis", "ValidParenthesis\ValidParenthesis.csproj", "{2B6F7DF6-CBAA-48BE-B583-8E6EC2CCD6E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidParenthesis", "ValidParenthesis\ValidParenthesis.csproj", "{2B6F7DF6-CBAA-48BE-B583-8E6EC2CCD6E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestPalindromicSubstring", "LongestPalindromicSubstring\LongestPalindromicSubstring.csproj", "{25583D96-F962-4F6D-84B5-E5E9C85C4B2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestPalindromicSubstring", "LongestPalindromicSubstring\LongestPalindromicSubstring.csproj", "{25583D96-F962-4F6D-84B5-E5E9C85C4B2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupAnagrams", "GroupAnagrams\GroupAnagrams.csproj", "{C6FB3ADE-2491-4BBD-8A27-BAC30D57F141}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GroupAnagrams", "GroupAnagrams\GroupAnagrams.csproj", "{C6FB3ADE-2491-4BBD-8A27-BAC30D57F141}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trapping Rain Water", "Trapping Rain Water\Trapping Rain Water.csproj", "{C3075379-5120-4012-A4C0-49E6E062AC26}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Trapping Rain Water", "Trapping Rain Water\Trapping Rain Water.csproj", "{C3075379-5120-4012-A4C0-49E6E062AC26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetMatrixToZeroes", "SetMatrixToZeroes\SetMatrixToZeroes.csproj", "{DAD6AD16-4318-4328-9537-52F7E64F1A77}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SetMatrixToZeroes", "SetMatrixToZeroes\SetMatrixToZeroes.csproj", "{DAD6AD16-4318-4328-9537-52F7E64F1A77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Single Number", "Single Number\Single Number.csproj", "{7F7E530E-2C07-4723-BB1C-AA37101FA4BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{DAD6AD16-4318-4328-9537-52F7E64F1A77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAD6AD16-4318-4328-9537-52F7E64F1A77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAD6AD16-4318-4328-9537-52F7E64F1A77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F7E530E-2C07-4723-BB1C-AA37101FA4BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F7E530E-2C07-4723-BB1C-AA37101FA4BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F7E530E-2C07-4723-BB1C-AA37101FA4BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F7E530E-2C07-4723-BB1C-AA37101FA4BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
