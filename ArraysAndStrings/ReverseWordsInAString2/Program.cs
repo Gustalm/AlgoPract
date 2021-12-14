@@ -27,7 +27,7 @@ static void ReverseWords(char[] s)
         {
             ReverseArray(s, indexLastSpace + 1, i);
         }
-
+        
         if (i == s.Length - 1 && indexLastSpace == 0)
         {
             ReverseArray(s, 0, i);

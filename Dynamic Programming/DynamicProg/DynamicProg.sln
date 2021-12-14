@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BestTimeToBuyAndSellStock", "BestTimeToBuyAndSellStock\BestTimeToBuyAndSellStock.csproj", "{086509EB-DBA8-4782-B9EC-FA5B81CA0B86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumSubarray", "MaximumSubarray\MaximumSubarray.csproj", "{DFFEFB00-265D-4B2C-A1CC-EEB75570FD4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{086509EB-DBA8-4782-B9EC-FA5B81CA0B86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{086509EB-DBA8-4782-B9EC-FA5B81CA0B86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{086509EB-DBA8-4782-B9EC-FA5B81CA0B86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{086509EB-DBA8-4782-B9EC-FA5B81CA0B86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFFEFB00-265D-4B2C-A1CC-EEB75570FD4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFFEFB00-265D-4B2C-A1CC-EEB75570FD4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFFEFB00-265D-4B2C-A1CC-EEB75570FD4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFFEFB00-265D-4B2C-A1CC-EEB75570FD4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2504CC72-F857-45DC-ADC9-E0A60279A21B}
+	EndGlobalSection
+EndGlobal
